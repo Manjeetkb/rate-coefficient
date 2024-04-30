@@ -1,4 +1,4 @@
-CAS,Element,Mass,Dipole Moment,Polarizability,PA (kcal/mol),IE (eV)
+CAS,Element,Mass,Dipole Moment,Polarizability,PA,IE
 87-40-1,"2,4,6-trichloroanisole",211.47,1.5713,18.3618,183.51,8.87
 607-99-8,"2,4,6-tribromoanisole",344.83,1.5411,22.1138,186.17,8.67
 87-86-5,Pentachlorophenol,266.34,1.7846,20.3273,167.15,8.76
@@ -80,7 +80,7 @@ CAS,Element,Mass,Dipole Moment,Polarizability,PA (kcal/mol),IE (eV)
 123-32-0,"2,5-dimethylpyrazine",108.14,0,12.34,,
 14667-55-1,"2,3,5-trimethylpyrazine",122.17,0.65,14.23,,
 1124-11-09,"2,3,5,6-tetramethylpyrazine",136.19,0,16.18,,
-106.98-9,1-butene,56.11,0.35,7.52,,
+106-98-9,1-butene,56.11,0.35,7.52,,
 78-79-5,isoprene,68.12,0.25,10.22,,
 108-88-3,toluene,92.14,0.34,12.9,,
 75-07-0,acetaldehyde,44.05,2.65,4.3,,
@@ -99,3 +99,33 @@ CAS,Element,Mass,Dipole Moment,Polarizability,PA (kcal/mol),IE (eV)
 127-17-3,pyruvic acid,88.06,2.3,6.6,,
 97-53-0,eugenol,164.2,2.5,19.3,,
 103-26-4,methyl cinnamate,162.18,1.9,19.2,,
+119-61-9,Benzophenone,182.22,3.23,22.75,216.25,8.68
+22583-75-1,Benzophenone-d10,192.28,3.23,22.75,216.38,8.68
+1137-42-4,4-hydroxybenzophenone,198.22,2.48,23.95,219.52,8.37
+25913-05-7,4-fluoro-4hydroxybenzophenone,216.21,3.95,23.97,218.41,8.58
+131-58-8,2-methylbenzophenone,196.24,3.37,24.27,216.94,8.56
+117-99-7,2-hydroxybenzophenone,198.22,4.26,23.39,218.57,8.39
+643-65-2,3-methylbenzophenone,196.24,3.62,24.73,217.95,8.51
+134-84-9,4-methylbenzophenone,196.24,3.53,25.08,219.67,8.49
+2128-93-0,4-phenylbenzophenone,258.3,3.32,33.22,225.52,8.55
+131-57-7,2-hydroxy-4-methoxybenzophenone,228.24,4.29,26.74,191.45,8.05
+606-28-0,methyl-2-benzoylbenzoate,240.25,4.46,27.04,216.81,8.63
+1143-72-2,"2,3,4-trihydroxybenzophenone",230.22,4.49,25.13,186.24,8.13
+131-53-3,"2,2-dihydroxy-4-methoxybenzophenone",244.24,5.59,27.35,217.36,7.88
+85-19-8,5-chloro-2-hydroxybenzophenone,232.66,2.41,25.91,211.88,8.33
+84-66-2,diethyl phthalate,222.24,3.67,23.16,202.56,9.05
+120-51-4,benzyl benzoate,212.24,2.34,25.05,205.94,8.87
+84-69-5,disobutyl phthalate,278.34,3.82,30.49,204.78,8.99
+84-74-2,dibutyl phthalate,278.34,3.96,30.17,204.61,9.03
+117-82-8,bis (2-methoxyethyl) phthalate,282.29,4.9,28.19,220.65,8.68
+605-54-9,bis (2-ethoxyethyl) phthalate,310.34,3.85,31.98,209.44,8.56
+131-11-3,dimethyl phthalate,194.18,3.38,19.42,199.15,9.16
+947-19-3,1-Hydroxycyclohexyl Phenyl Ketone,204.26,1.4,22.88,208.53,8.65
+525-82-6,Flavone,222.24,4.49,28.11,226.91,8.28
+131-18-0,dipentyl phthalate,306.4,3.79,33.74,204.59,9.01
+85-68-7,benzyl butyl phthalate,312.4,3.87,35.31,205.19,8.6
+84-63-9,Bis (4-methyl-2-pentyl) phthalate,334.4,0.84,37.36,213.97,8.9
+84-75-3,Di-n-hexyl phthalate,334.4,3.92,37.61,217.23,9.11
+117-83-9,Bis (2-n-butoxyethyl) phthalate,366.4,3.24,39.74,224.77,8.58
+84-61-7,dicyclohexyl phthalate,330.4,3.66,35.99,213.13,8.85
+117-81-7,di(2-ethylhexyl) phthalate,390.6,4.91,44.47,217.94,8.88
